@@ -1,0 +1,15 @@
+.background2 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 106, 0);
+}
+h2 {
+  font-size: 4em;
+}
+
+p {
+  font-size: 0.75em;
+}
