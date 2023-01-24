@@ -4,9 +4,9 @@ import './Nav.css';
 export default function Nav() {
   return (
     <nav>
-      <NavLink to="/255/204/204">Red</NavLink>
-      <NavLink to="/204/255/204">Green</NavLink>
-      <NavLink to="/204/229/255">Blue</NavLink>
+      <NavLink to="/173/54/54">Red</NavLink>
+      <NavLink to="/54/173/84">Green</NavLink>
+      <NavLink to="/54/94/173">Blue</NavLink>
     </nav>
   );
 }
